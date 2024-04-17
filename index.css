@@ -133,12 +133,10 @@ aside .toggle{
 aside .toggle .logo{
     display: flex;
     gap:0.5rem;
+    
 }
 
-aside .toggle .logo img{
-    width:2rem;
-    height:2rem;
-}
+
 
 aside .toggle .close{
     padding-right: 1rem;
